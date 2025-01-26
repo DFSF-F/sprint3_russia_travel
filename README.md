@@ -2,7 +2,7 @@
 
 ## О чём этот проект:
 ### Функционал
-* [Одностраничный сайт](https://stbukhgolts.github.io/russian-travel/)
+* [Одностраничный сайт](https://dfsf-f.github.io/sprint3_russia_travel/)
 
 ### Учебный проект Яндекс Практикума на изучение технологий html и css
 * адаптивная верстка
